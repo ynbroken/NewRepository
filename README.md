@@ -12,6 +12,7 @@ main()
   scanf("%d", &x);
   
   y = 5 * x + 20;
+  y = y*2;
   printf("Result y = %d\n", y);
   
   system("pause");
